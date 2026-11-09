@@ -44,5 +44,5 @@ docs/       → Notas, diagramas, hojas de datos, registro de despliegues
 | SA-3083           | Rev 1.1 | v 0.0.2  | Apartadó        | 26/10/26    | SOLAR con Pilotos  |
 | SA-3084           | Rev 1.1 | v 0.0.2  | Carepa          | 26/10/26    | SOLAR  |
 | SA-3085           | Rev 1.1 | v 0.0.3  | San Juan Uraba  | 03/11/26    | SOLAR Gab Viejo |
-| SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes       | 03/11/26    | SOLAR Gab Viejo |
+| SA-3086           | Rev 1.1 | v 0.0.3  | Arboletes       | 03/11/26    | SOLAR Gab Viejo  |
 
